@@ -18,3 +18,38 @@
   • Deliver real-world solutions that solve problems
 
 🔥 I'm passionate about coding, APIs, problem solving, and building things that work. I'm motivated by progress and excited about every chance to create or collaborate on a new idea.
+🔧 Languages:
+    - Python
+    - JavaScript (Node.js)
+    - C
+    - Bash
+
+💾 Databases:
+    - MySQL
+    - PostgreSQL
+    - MongoDB
+
+⚙️ Tools & Frameworks:
+    - Flask
+    - Express.js
+    - Docker
+    - Git & GitHub
+    - Postman
+    - Linux (Ubuntu)
+
+☁️ Cloud & DevOps (learning):
+    - AWS (EC2, S3)
+    - CI/CD
+• Advanced Python (OOP, Modules, Decorators)
+• RESTful API Design
+• SQL Joins, Views, and Optimization
+• Dockerization of apps
+• System Design Basics
+• Scaling backend infrastructure
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yeboahsmith1&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeboahsmith1&theme=radical" alt="GitHub Streak" /> </p>
+
+💬 Ask me about backend dev, projects, or tech culture.
+🌐 Portfolio: [Coming soon!]
+📫 How to reach me:
+   • LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+   • Email: michaelsmithyeboah@gmail.com
